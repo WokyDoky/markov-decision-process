@@ -1,8 +1,5 @@
 # PA3: Solving MDPs
 
-## Due Date
-**Tuesday, Dec 3 at 11:59 PM**
-
 ## Objective
 The goal of this project is to experiment with algorithms for solving Markov Decision Processes (MDPs) on a simple domain representing the life of a student balancing fun and academics.
 
